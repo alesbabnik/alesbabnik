@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/alesbabnik?template=classic&languages=1&lines=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FStockholm)
 
 <!--
 **alesbabnik/alesbabnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
